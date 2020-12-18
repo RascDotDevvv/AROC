@@ -24,12 +24,12 @@ Windows:
 same
 ```
 
-## Usage example
+## AROC TOOL, Automation of OROC AND ARS TICKETS. 
 
 Dont ever worry to fill cases again, just leave the note and WHUALA!
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
-## Development setup
+## Deps
 
 Dependencies
 ```sh
@@ -50,7 +50,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/RascDotDevvv/AROC]
 
-## Contributing
+
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
